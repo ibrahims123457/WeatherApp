@@ -6,7 +6,7 @@ Uses the Google Maps API and Dark Sky weather API to retrieve the data.
 Node.js is used to retrieve the data.
 
 ##Usage
-1) CD to the directory in which this folder is located.  
+1) cd to the directory in which this folder is located.  
 2) Load the weather.js file using node and type a zip code 
    
         node weather.js <zip code>
